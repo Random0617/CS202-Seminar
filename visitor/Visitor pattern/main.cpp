@@ -1,5 +1,4 @@
 //21125141 - Trần Thúc Minh Trí
-//Not the part I was assigned, but it's something you can look at for more information.
 
 /*
 Instructions:
